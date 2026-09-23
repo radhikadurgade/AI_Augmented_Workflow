@@ -15,7 +15,7 @@ graph = {
 
 START = "A"
 GOAL = "G"
-RUNS = 100
+RUNS = 1000000
 
 
 def bfs(start, goal):
